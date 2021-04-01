@@ -14,6 +14,6 @@ public interface PaymentDao {
     int create(Payment payment);
 
     //注解生效，但是 xml未生效
-    //@Select("select * from payment where id=#{id}")
+    @Select("select * from payment where id=#{id}")
     Payment queryById(@Param("id") long id);
 }
