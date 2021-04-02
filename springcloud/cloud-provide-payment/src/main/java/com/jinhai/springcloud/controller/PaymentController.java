@@ -35,8 +35,8 @@ public class PaymentController {
             return new CommonResult(444,"插入数据库失败",null);
         }
     }
-    @GetMapping("/payment/get/{id}")
 
+    @GetMapping("/payment/get/{id}")
     public CommonResult queryById(@PathVariable("id") Long id){
         log.info("***************开始查询*********");
         Payment payment = paymentService.queryById(id);
