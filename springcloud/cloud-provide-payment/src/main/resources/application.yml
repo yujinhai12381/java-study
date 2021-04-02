@@ -12,7 +12,7 @@ spring:
     password: 123456
 #mybatis:配置
 mybatis:
-  mapperLocations: classpath:dao/*.xml
+  mapperLocations: classpath:com/jinhai/springcloud/dao/*.xml
   type-aliases-package: com.jinhai.springcloud.pojo    # 所有pojo别名类所在包
 
 #eureka配置

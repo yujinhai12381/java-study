@@ -25,7 +25,8 @@ public class PaymentController {
 
     @Value("${server.port}")
     private int serverPort;
-
+    @Value("${mybatis.mapperLocations}")
+    private String mapperLocations;
 
     @ResponseBody
     @PostMapping("/payment/create")
@@ -42,7 +43,8 @@ public class PaymentController {
 
     @GetMapping("/payment/get/{id}")
     public CommonResult queryById(@PathVariable("id") Long id){
-        log.info("***************开始查询*********");
+
+        log.info("***************开始查询*********"+this.mapperLocations);
         Payment payment = paymentService.queryById(id);
         log.info("***************查询成功*********"+payment);
         if(payment!=null){
