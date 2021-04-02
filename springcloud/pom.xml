@@ -12,6 +12,7 @@
         <module>cloud-api-commons</module>
         <module>cloud-provide-payment</module>
         <module>cloud-consumer-order</module>
+        <module>cloud-eureka-server</module>
     </modules>
 
     <properties>
@@ -31,7 +32,7 @@
             <dependency>
                 <groupId>org.springframework.cloud</groupId>
                 <artifactId>spring-cloud-dependencies</artifactId>
-                <version>Greenwich.SR1</version>
+                <version>Finchley.SR1</version>
                 <type>pom</type>
                 <scope>import</scope>
             </dependency>
