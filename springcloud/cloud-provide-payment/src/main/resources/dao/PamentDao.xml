@@ -13,7 +13,8 @@
         insert into payment (serial) values (#{serial});
     </insert>
 
-    <select id="queryById" resultType="com.jinhai.springcloud.pojo.Payment" parameterType="Long" resultMap="BaseResultMap">
-        select * from payment  where id = #{id};
+    <select id="queryById" resultType="com.jinhai.springcloud.pojo.Payment" parameterType="Long"
+            resultMap="BaseResultMap">
+        select * from payment where id = #{id};
     </select>
 </mapper>

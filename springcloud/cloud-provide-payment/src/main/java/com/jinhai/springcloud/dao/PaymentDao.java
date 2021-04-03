@@ -10,7 +10,7 @@ import org.springframework.stereotype.Repository;
 @Mapper
 @Repository
 public interface PaymentDao {
-    @Insert("insert into payment (serial) values (#{serial})")
+    //@Insert("insert into payment (serial) values (#{serial})")
     int create(Payment payment);
 
     //注解生效，但是 xml未生效
