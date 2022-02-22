@@ -1,0 +1,10 @@
+# application.properties
+
+spring:
+  application:
+    name: ${APP_NAME:test}
+management:
+  endpoints:
+    web:
+      exposure:
+        include: info, health, beans, env, metrics

@@ -1,0 +1,61 @@
+2022-02-22 23:35:50.526  INFO 4442 --- [main] cn.yjh.learnjava.Application             : Starting Application on yujinhai with PID 4442 (/Users/yujinhai/github/20220222/target/classes started by yujinhai in /Users/yujinhai/github/20220222)
+2022-02-22 23:35:50.531  INFO 4442 --- [main] cn.yjh.learnjava.Application             : No active profile set, falling back to default profiles: default
+2022-02-22 23:35:51.767  INFO 4442 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-02-22 23:35:51.782  INFO 4442 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 23:35:51.783  INFO 4442 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-02-22 23:35:51.890  INFO 4442 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 23:35:51.891  INFO 4442 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1281 ms
+2022-02-22 23:35:52.155  INFO 4442 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:35:52.407  INFO 4442 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-22 23:35:52.420  INFO 4442 --- [main] cn.yjh.learnjava.Application             : Started Application in 3.573 seconds (JVM running for 6.305)
+2022-02-22 23:36:06.254  INFO 4442 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 23:36:06.255  INFO 4442 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 23:36:06.282  INFO 4442 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 27 ms
+2022-02-22 23:38:55.092  INFO 4442 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:39:04.339  INFO 4533 --- [main] cn.yjh.learnjava.Application             : Starting Application on yujinhai with PID 4533 (/Users/yujinhai/github/20220222/target/classes started by yujinhai in /Users/yujinhai/github/20220222)
+2022-02-22 23:39:04.354  INFO 4533 --- [main] cn.yjh.learnjava.Application             : No active profile set, falling back to default profiles: default
+2022-02-22 23:39:05.927  INFO 4533 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-02-22 23:39:05.943  INFO 4533 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 23:39:05.943  INFO 4533 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-02-22 23:39:06.069  INFO 4533 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 23:39:06.069  INFO 4533 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1551 ms
+2022-02-22 23:39:06.328  INFO 4533 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:39:06.566  INFO 4533 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-22 23:39:06.577  INFO 4533 --- [main] cn.yjh.learnjava.Application             : Started Application in 3.49 seconds (JVM running for 5.239)
+2022-02-22 23:39:17.588  INFO 4533 --- [http-nio-8080-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 23:39:17.588  INFO 4533 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 23:39:17.603  INFO 4533 --- [http-nio-8080-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 15 ms
+2022-02-22 23:40:10.449  INFO 4533 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:40:19.264  INFO 4573 --- [main] cn.yjh.learnjava.Application             : Starting Application on yujinhai with PID 4573 (/Users/yujinhai/github/20220222/target/classes started by yujinhai in /Users/yujinhai/github/20220222)
+2022-02-22 23:40:19.269  INFO 4573 --- [main] cn.yjh.learnjava.Application             : No active profile set, falling back to default profiles: default
+2022-02-22 23:40:21.425  INFO 4573 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-02-22 23:40:21.443  INFO 4573 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 23:40:21.443  INFO 4573 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-02-22 23:40:21.577  INFO 4573 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 23:40:21.578  INFO 4573 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2192 ms
+2022-02-22 23:40:21.975  INFO 4573 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:40:22.420  INFO 4573 --- [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 5 endpoint(s) beneath base path '/actuator'
+2022-02-22 23:40:22.518  INFO 4573 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-22 23:40:22.541  INFO 4573 --- [main] cn.yjh.learnjava.Application             : Started Application in 4.055 seconds (JVM running for 5.378)
+2022-02-22 23:40:23.111  INFO 4573 --- [RMI TCP Connection(1)-192.168.1.7] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 23:40:23.112  INFO 4573 --- [RMI TCP Connection(1)-192.168.1.7] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 23:40:23.122  INFO 4573 --- [RMI TCP Connection(1)-192.168.1.7] o.s.web.servlet.DispatcherServlet        : Completed initialization in 10 ms
+2022-02-22 23:43:04.724  INFO 4573 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:43:13.520  INFO 4648 --- [restartedMain] cn.yjh.learnjava.Application             : Starting Application on yujinhai with PID 4648 (/Users/yujinhai/github/20220222/target/classes started by yujinhai in /Users/yujinhai/github/20220222)
+2022-02-22 23:43:13.524  INFO 4648 --- [restartedMain] cn.yjh.learnjava.Application             : No active profile set, falling back to default profiles: default
+2022-02-22 23:43:13.642  INFO 4648 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-02-22 23:43:13.644  INFO 4648 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-02-22 23:43:15.640  INFO 4648 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-02-22 23:43:15.648  INFO 4648 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-02-22 23:43:15.649  INFO 4648 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2022-02-22 23:43:15.712  INFO 4648 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-02-22 23:43:15.712  INFO 4648 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 2067 ms
+2022-02-22 23:43:16.049  INFO 4648 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2022-02-22 23:43:16.367  INFO 4648 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-02-22 23:43:16.377  INFO 4648 --- [restartedMain] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 5 endpoint(s) beneath base path '/actuator'
+2022-02-22 23:43:16.446  INFO 4648 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-02-22 23:43:16.465  INFO 4648 --- [restartedMain] cn.yjh.learnjava.Application             : Started Application in 4.2 seconds (JVM running for 5.733)
+2022-02-22 23:43:16.609  INFO 4648 --- [RMI TCP Connection(3)-192.168.1.7] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2022-02-22 23:43:16.610  INFO 4648 --- [RMI TCP Connection(3)-192.168.1.7] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2022-02-22 23:43:16.619  INFO 4648 --- [RMI TCP Connection(3)-192.168.1.7] o.s.web.servlet.DispatcherServlet        : Completed initialization in 9 ms
+2022-02-22 23:50:54.084  INFO 4648 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
